@@ -1,1 +1,1 @@
- Simple AddAndDelete foms react Native docs
+ Simple AddAndDelete from react Native docs
